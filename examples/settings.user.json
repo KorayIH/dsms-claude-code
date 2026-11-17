@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "deny": [
+      "Read(~/.dsms/**)",
+      "Edit(~/.dsms/**)"
+    ]
+  }
+}

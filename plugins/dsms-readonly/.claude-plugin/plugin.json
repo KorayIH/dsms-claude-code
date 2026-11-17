@@ -1,0 +1,6 @@
+{
+  "name": "dsms-readonly",
+  "version": "0.1.0",
+  "description": "Read and query a DSMS instance (materials-data.space). Read-only: no tools to create, change or delete. The MCP server reads the token itself, Claude never sees it.",
+  "license": "MIT"
+}

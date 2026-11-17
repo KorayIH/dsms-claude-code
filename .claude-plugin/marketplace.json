@@ -1,0 +1,11 @@
+{
+  "name": "dsms-tools",
+  "owner": { "name": "dsms-claude-code contributors" },
+  "plugins": [
+    {
+      "name": "dsms-readonly",
+      "source": "./plugins/dsms-readonly",
+      "description": "Query a DSMS instance from Claude Code, read-only, without handing the token to Claude"
+    }
+  ]
+}

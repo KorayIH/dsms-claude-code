@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "dsms": {
+      "command": "uv",
+      "args": ["run", "--quiet", "--script", "${CLAUDE_PLUGIN_ROOT}/server/dsms_mcp.py"]
+    }
+  }
+}
