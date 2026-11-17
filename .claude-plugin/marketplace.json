@@ -1,6 +1,7 @@
 {
   "name": "dsms-tools",
   "owner": { "name": "dsms-claude-code contributors" },
+  "metadata": { "description": "Read-only access to DSMS instances from Claude Code" },
   "plugins": [
     {
       "name": "dsms-readonly",
